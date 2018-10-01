@@ -1,0 +1,1 @@
+Just contribute but name your commits that other people can understand it and write carefully with lots of comments, docstrings and according to the [PEP8](https://www.python.org/dev/peps/pep-0008/?) guidelines
